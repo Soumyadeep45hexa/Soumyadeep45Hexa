@@ -62,7 +62,6 @@ My DSA journey through LeetCode solutions in C.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumyadeep45hexa&layout=compact&theme=tokyonight" />
-  <img width="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumyadeep45hexa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
