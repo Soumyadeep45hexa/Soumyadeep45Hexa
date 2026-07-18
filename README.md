@@ -104,8 +104,8 @@ My DSA journey through LeetCode solutions in C.
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Soumyadeep45hexa">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://www.instagram.com/soumyadeep._x/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
