@@ -48,9 +48,9 @@ My DSA journey through LeetCode solutions in C.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/><br><br>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript"/><br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs"/><br><br>
+<img src="https://skillicons.dev/icons?i=html,css"/><br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,mysql,sqlite,vercel"/>
 
@@ -61,11 +61,8 @@ My DSA journey through LeetCode solutions in C.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep45hexa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep45hexa&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep45hexa&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep45hexa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
