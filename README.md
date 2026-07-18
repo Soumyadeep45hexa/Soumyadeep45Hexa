@@ -85,13 +85,10 @@ My DSA journey through LeetCode solutions in C.
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Soumyadeep45hexa&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-trophies.vercel.app/?username=Soumyadeep45hexa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
