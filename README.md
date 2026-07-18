@@ -5,7 +5,7 @@ B.Tech Information Technology Student • Full Stack Developer • DSA Enthusias
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+PathCAD.io;Learning+DSA+Everyday;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+C+%7C+JavaScript;DSA+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
