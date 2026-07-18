@@ -60,10 +60,10 @@ My DSA journey through LeetCode solutions in C.
 
 ## 📊 GitHub Stats
 
-[<p align="center">
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep45hexa&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep45hexa&layout=compact&theme=tokyonight" />
-</p>](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Soumyadeep45hexa&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
