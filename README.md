@@ -16,8 +16,6 @@ B.Tech Information Technology Student • Full Stack Developer • DSA Enthusias
 
 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Problem Solving**
 
-🚀 Building **PathCAD.io**
-
 🌱 Currently learning
 
 - Java
@@ -34,45 +32,30 @@ B.Tech Information Technology Student • Full Stack Developer • DSA Enthusias
 
 ### 🌟 PathCAD.io
 AI-powered platform that analyzes college syllabi, identifies skill gaps, and generates personalized roadmaps.
-
-🔗 https://pathcadio-app.vercel.app/
-
 ---
 
 ### 🎬 StreamVerse
-
 Responsive streaming platform UI built with modern web technologies.
-
 ---
 
 ### 📱 Tap-to-Note
-
 Android application for creating quick notes using Google Keep Intents.
-
 ---
 
 ### 💻 LeetCode Progress
-
 Collection of optimized DSA solutions written in C.
-
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
-
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript"/>
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 <br><br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,sqlite"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql"/>
 <br><br>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel"/>
 
 </p>
@@ -81,13 +64,6 @@ Collection of optimized DSA solutions written in C.
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep45hexa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Soumyadeep45hexa&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -97,28 +73,19 @@ Collection of optimized DSA solutions written in C.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep45hexa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadeep45hexa&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadeep45hexa&theme=tokyonight"/>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadeep45hexa&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadeep45hexa&theme=tokyonight"/>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadeep45hexa&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumyadeep45hexa&theme=tokyonight&utcOffset=5.5"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadeep45hexa&theme=tokyonight"/>
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumyadeep45hexa&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
-
 ---
 
 # 💻 Coding Profiles
