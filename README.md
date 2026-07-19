@@ -92,11 +92,11 @@ Collection of optimized DSA solutions written in C.
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/AUaSqaYwLB/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/soumyadeepp5467">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
