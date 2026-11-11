@@ -67,9 +67,9 @@ Collection of optimized DSA solutions written in C.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadeep45Hexa&custom_title=This%20is%20a%20title&hide_border=true"
+    src="https://raw.githubusercontent.com/Soumyadeep45hexa/Soumyadeep45hexa/activity-assets/activity-30d.svg"
+    width="50%"
     alt="GitHub Activity Graph"
-    width="100%"
   />
 </p>
 
