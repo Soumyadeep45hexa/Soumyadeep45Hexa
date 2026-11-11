@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "snapshotId": "83cf563e758383a7b9f75531e9277c54ae850b72770eb8b0e8c216ab79da15ba",
+  "publicDataPolicy": "daily-aggregates-only-v1",
+  "generatedAt": "2026-11-11T14:45:53.224Z",
+  "source": "github",
+  "username": "Soumyadeep45hexa",
+  "sourceCommit": "6c5d79ce58332ea4099d2f890755f6600818721f",
+  "workflowRun": "43041607065",
+  "calendarDays": 365,
+  "rangeStart": "2025-11-12",
+  "rangeEnd": "2026-11-11",
+  "currentDayPartial": true,
+  "ranges": {
+    "30": {
+      "total": 19,
+      "startDate": "2026-10-13",
+      "endDate": "2026-11-11"
+    },
+    "90": {
+      "total": 25,
+      "startDate": "2026-08-14",
+      "endDate": "2026-11-11"
+    },
+    "365": {
+      "total": 259,
+      "startDate": "2025-11-12",
+      "endDate": "2026-11-11"
+    }
+  },
+  "assets": {
+    "index.html": {
+      "bytes": 41558,
+      "sha256": "0a750c93b2c3b91592770c376adbb1acfd152b6e6e1c52ee8612895ba0ed0c64"
+    },
+    "activity-30d.svg": {
+      "bytes": 5137,
+      "sha256": "ab3f31eda28ada57c70f0eb647fc8c7811b743a6fd1edf494179c00e2c83a733"
+    },
+    "activity-90d.svg": {
+      "bytes": 8167,
+      "sha256": "b860b6a67be3c7fdd1f3b537701d75c601a30fc570a5138d02485244a8599b7b"
+    },
+    "activity-365d.svg": {
+      "bytes": 25900,
+      "sha256": "8604e7f7dcaf423b605b83626935d072df3aef523156f9b29bc1393e344285b6"
+    }
+  }
+}
