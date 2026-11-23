@@ -1,49 +1,49 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "c8ec12fe4459ae008514b199ca9ccda77c9e6fe93eedadc4aa0fbbaf4483090c",
+  "snapshotId": "e8b53d8f715411bd15c9284812a546871f0ebda4ef307c04d48280ae4a2df10a",
   "publicDataPolicy": "daily-aggregates-only-v1",
-  "generatedAt": "2026-11-22T14:49:52.799Z",
+  "generatedAt": "2026-11-23T01:29:27.299Z",
   "source": "github",
   "username": "Soumyadeep45hexa",
   "sourceCommit": "4bc11ff2f1b259381bcf6c9f7e9fbd9ed944c9d5",
-  "workflowRun": "45034931022",
+  "workflowRun": "45094841648",
   "calendarDays": 365,
-  "rangeStart": "2025-11-23",
-  "rangeEnd": "2026-11-22",
+  "rangeStart": "2025-11-24",
+  "rangeEnd": "2026-11-23",
   "currentDayPartial": true,
   "ranges": {
     "30": {
       "total": 26,
-      "startDate": "2026-10-24",
-      "endDate": "2026-11-22"
+      "startDate": "2026-10-25",
+      "endDate": "2026-11-23"
     },
     "90": {
       "total": 29,
-      "startDate": "2026-08-25",
-      "endDate": "2026-11-22"
+      "startDate": "2026-08-26",
+      "endDate": "2026-11-23"
     },
     "365": {
       "total": 266,
-      "startDate": "2025-11-23",
-      "endDate": "2026-11-22"
+      "startDate": "2025-11-24",
+      "endDate": "2026-11-23"
     }
   },
   "assets": {
     "index.html": {
-      "bytes": 41598,
-      "sha256": "dfdeace692323c803b43d9915dcf249907115643d730602e83fe82f88652fdaa"
+      "bytes": 41603,
+      "sha256": "8d8d8be948b3d386a83786df763992ebd621f6d6ebb5a2691bef51349146e360"
     },
     "activity-30d.svg": {
-      "bytes": 5254,
-      "sha256": "ef77e9c627d45d0cb311a7578b380dd0dd743920f6b6f324d0674f5ea708d9bd"
+      "bytes": 5257,
+      "sha256": "48a0261152a35a4dfdbddc00faa37a42b6ed632ad978d7aecbc70351f26518b5"
     },
     "activity-90d.svg": {
-      "bytes": 8166,
-      "sha256": "66f1938672154ec243e293183aad483018ab5a9faef11b72a86a8f76e01e2265"
+      "bytes": 8169,
+      "sha256": "d86a3aee39ed2604ceadecdb0f444d13a5b766d7090903e9b8541643892603e5"
     },
     "activity-365d.svg": {
-      "bytes": 26022,
-      "sha256": "ab9a181491cb37ea72ca6db26d37f7c965b7bce7cba5625a40f7d54dcba85c85"
+      "bytes": 26024,
+      "sha256": "524606b04e8f0781f0f2cd66ece9706ad9c1f69d87519195d749e682812014c7"
     }
   }
 }
