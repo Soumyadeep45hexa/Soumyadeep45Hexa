@@ -1,49 +1,49 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "4bba6515319ad16595142f16075ef631ba8648a43ff3059a934d159a2b4a5892",
+  "snapshotId": "eb6766250233ac93c8e9f4840f9ad4c56c1095123d3c68a24be048730fd079a0",
   "publicDataPolicy": "daily-aggregates-only-v1",
-  "generatedAt": "2026-11-24T05:50:44.021Z",
+  "generatedAt": "2026-11-25T01:32:08.751Z",
   "source": "github",
   "username": "Soumyadeep45hexa",
   "sourceCommit": "4bc11ff2f1b259381bcf6c9f7e9fbd9ed944c9d5",
-  "workflowRun": "45336133467",
+  "workflowRun": "45526427824",
   "calendarDays": 365,
-  "rangeStart": "2025-11-25",
-  "rangeEnd": "2026-11-24",
+  "rangeStart": "2025-11-26",
+  "rangeEnd": "2026-11-25",
   "currentDayPartial": true,
   "ranges": {
     "30": {
       "total": 27,
-      "startDate": "2026-10-26",
-      "endDate": "2026-11-24"
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-25"
     },
     "90": {
       "total": 30,
-      "startDate": "2026-08-27",
-      "endDate": "2026-11-24"
+      "startDate": "2026-08-28",
+      "endDate": "2026-11-25"
     },
     "365": {
       "total": 267,
-      "startDate": "2025-11-25",
-      "endDate": "2026-11-24"
+      "startDate": "2025-11-26",
+      "endDate": "2026-11-25"
     }
   },
   "assets": {
     "index.html": {
-      "bytes": 41608,
-      "sha256": "35e8c2aacaa8b840b37568f6d0544bbbded404a0074be9b507efb80a9965f2a2"
+      "bytes": 41613,
+      "sha256": "357c0b6330b6a494d6e8ce54509557f42d01d92cbee3a7f1f1e58087c40ceb5d"
     },
     "activity-30d.svg": {
-      "bytes": 5377,
-      "sha256": "c6d6fd0156e50f9406e02606e06ba94cacbd5363fdb82195cc95bc2be2cf86e5"
+      "bytes": 5376,
+      "sha256": "5a29cd96526ad2c43896dc91f679e6e1512f4a74b0e600895ba1e249dc464e21"
     },
     "activity-90d.svg": {
       "bytes": 8291,
-      "sha256": "5ed7bc0114bbe71960a33aaa0ccada3d8df5e3a1a829bf094bd2bc3234680627"
+      "sha256": "4c52d98e485a80587bbb574633b798aeb21566a6efdef6c8913ee69b4f9e4ad6"
     },
     "activity-365d.svg": {
-      "bytes": 26147,
-      "sha256": "dd5b3d958d6aa0428ff2451eaa6b6d63ecf7604b33311100fa418aa4a92471fa"
+      "bytes": 26145,
+      "sha256": "535191af7586c21af81080593e2de5a88d13c65539ec8271d25ea925b85edba9"
     }
   }
 }
